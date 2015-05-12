@@ -180,7 +180,7 @@ name:discuss
     - Branches
     - Commits
     - Pull Request 
-    - __Discusión y Revisión__]
+    - __Review__]
 .right-column[
 ## Discusión y Revisión
 ![discuss & review](/assets/img/discuss.png)
@@ -199,7 +199,32 @@ Puedes continuar enviando cambios a tu _branch_ para aclarar tu discusión o tus
 ### ProTip
 
 Los comentarios de las _Pull Request_ están escritos en Markdown, asi que puedes incluir imágenes y emojis, usar código preformateado o cualquier otro formato ligero.
+---
+name:merge
+.left-column[
+### Control de Versiones
+- *Flujo*
+    - Branches
+    - Commits
+    - Pull Request 
+    - Review
+    - __Merge__]
+.right-column[
+## Unir y distribuir
+![merge & deploy](/assets/img/merge.png)
+- Cuando se aprueba una _Pull Request_ se une a la _master brach_
+- Se puede hacer un _pull_ local antes de aprobar
+- Se conserva el registro de los cambios
+- Una _pull request_ puede cerrar _issues_
+]
+???
+## Merge & Deploy
+Una vez que la _Pull Request_ se revisó y la _branch_ pasó las pruebas es tiempo de mezclar tu código con la rama principal para su despliegue. Si queres probar las cosas antes de mezclarlas en el repositorio de GitHub, puedes realizar la unión localmente. Esto es muy práctico si no tienes acceso _push_ al repositorio.
 
+Una vez unidos, las _Push Requests_ preservan el registro histórico de cambios. Y debido a que puedes buscar en ellos, permiten regresar en el tiempo para entender por qué y cómo se tomo una decisión.
+
+### ProTip
+Si incorporas cietas palabras clave en el texto de una _Pull Request_ puedes asociar _issues_ con tu código. Cuando mezclas esa _Pull Request_ con la _master branch_, la _issue_ se cierra automáticamente. 
 
 </textarea>
 <script src="/assets/js/remark-latest.min.js" type="text/javascript">
