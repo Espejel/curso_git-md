@@ -2,6 +2,94 @@
 "CodeKitInfo": "This is a CodeKit 2.x project configuration file. It is designed to sync project settings across multiple machines. MODIFYING THE CONTENTS OF THIS FILE IS A POOR LIFE DECISION. If you do so, you will likely cause CodeKit to crash. This file is not useful unless accompanied by the project that created it in CodeKit 2. This file is not backwards-compatible with CodeKit 1.x. For more information, see: http:\/\/incident57.com\/codekit",
 "creatorBuild": "18892",
 "files": {
+	"\/assets\/img\/Captura de pantalla 2015-05-06 14.53.04.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 31120,
+		"inputAbbreviatedPath": "\/assets\/img\/Captura de pantalla 2015-05-06 14.53.04.png",
+		"outputAbbreviatedPath": "\/assets\/img\/Captura de pantalla 2015-05-06 14.53.04.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/commits.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 29330,
+		"inputAbbreviatedPath": "\/assets\/img\/commits.png",
+		"outputAbbreviatedPath": "\/assets\/img\/commits.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/discuss.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 29559,
+		"inputAbbreviatedPath": "\/assets\/img\/discuss.png",
+		"outputAbbreviatedPath": "\/assets\/img\/discuss.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/merge.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 30034,
+		"inputAbbreviatedPath": "\/assets\/img\/merge.png",
+		"outputAbbreviatedPath": "\/assets\/img\/merge.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/mg-bg.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 75317,
+		"inputAbbreviatedPath": "\/assets\/img\/mg-bg.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/mg-bg.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/mg-obj.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 231887,
+		"inputAbbreviatedPath": "\/assets\/img\/mg-obj.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/mg-obj.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/pull.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 28339,
+		"inputAbbreviatedPath": "\/assets\/img\/pull.png",
+		"outputAbbreviatedPath": "\/assets\/img\/pull.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/rama.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 30109,
+		"inputAbbreviatedPath": "\/assets\/img\/rama.png",
+		"outputAbbreviatedPath": "\/assets\/img\/rama.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/js\/remark-latest.min.js": {
 		"fileType": 64,
 		"ignore": 0,
@@ -12,15 +100,6 @@
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
-		},
-	"\/index.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
 		},
 	"\/README.md": {
 		"criticStyle": 0,
